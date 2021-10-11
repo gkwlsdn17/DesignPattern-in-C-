@@ -1,0 +1,15 @@
+C:\Users\kwon\Desktop\Study\DesignPattern in C#\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\kwon\Desktop\Study\DesignPattern in C#\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\kwon\Desktop\Study\DesignPattern in C#\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\kwon\Desktop\Study\DesignPattern in C#\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csprojAssemblyReference.cache
+C:\Users\kwon\Desktop\Study\DesignPattern in C#\TemplateMethod\TemplateMethod\obj\Debug\MainWindow.g.cs
+C:\Users\kwon\Desktop\Study\DesignPattern in C#\TemplateMethod\TemplateMethod\obj\Debug\App.g.cs
+C:\Users\kwon\Desktop\Study\DesignPattern in C#\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod_MarkupCompile.cache
+C:\Users\kwon\Desktop\Study\DesignPattern in C#\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod_MarkupCompile.lref
+C:\Users\kwon\Desktop\Study\DesignPattern in C#\TemplateMethod\TemplateMethod\obj\Debug\MainWindow.baml
+C:\Users\kwon\Desktop\Study\DesignPattern in C#\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.g.resources
+C:\Users\kwon\Desktop\Study\DesignPattern in C#\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.Properties.Resources.resources
+C:\Users\kwon\Desktop\Study\DesignPattern in C#\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csproj.GenerateResource.cache
+C:\Users\kwon\Desktop\Study\DesignPattern in C#\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\kwon\Desktop\Study\DesignPattern in C#\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\kwon\Desktop\Study\DesignPattern in C#\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb
