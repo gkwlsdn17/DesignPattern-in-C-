@@ -1,0 +1,33 @@
+﻿<Window x:Class="AdapterPattern.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AdapterPattern"
+        mc:Ignorable="d"
+        Title="자격조회" Height="500" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <WrapPanel  Grid.Row="0" VerticalAlignment="Center" Margin="10,10,0,0">
+            <TextBlock x:Name="tbStatus" HorizontalAlignment="Left" Margin="0,0,0,0" TextWrapping="Wrap" Text="상태:" VerticalAlignment="Center" Width="30"/>
+            <ComboBox x:Name="cbStatus" HorizontalAlignment="Left" Height="20" Margin="5,0,0,0" VerticalAlignment="Center" Width="78" SelectedIndex="0" SelectionChanged="cbStatus_SelectionChanged">
+                <ComboBoxItem Content="정상"/>
+                <ComboBoxItem Content="오류"/>
+            </ComboBox>
+            <TextBlock x:Name="tbPatient" HorizontalAlignment="Left" Margin="20,0,0,0" TextWrapping="Wrap" Text="환자:" VerticalAlignment="Center" Width="30"/>
+            <ComboBox x:Name="cbPatient" DisplayMemberPath="PatientName" SelectedValuePath="PatientID" HorizontalAlignment="Left" Height="20" Margin="5,0,0,0" VerticalAlignment="Center" Width="100"/>
+        </WrapPanel>
+        
+        <WrapPanel Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="10,10,10,0">
+            <Button Name="btnCheckHealthIns" VerticalAlignment="Center"  Height='20' Width="275" Content="환자정보로 자격조회" Click="btnCheckHealthIns_Click"/>
+            <Button Name="btnCheckHealthInsFromInsNumber" VerticalAlignment="Center" Margin="5,0,0,0" Height='20' Width="275" Content="증번호로 자격조회" Click="btnCheckHealthIns_Click"/>
+        </WrapPanel>
+
+        <TextBox Name="tbResult" Margin="10" ScrollViewer.VerticalScrollBarVisibility="Auto" Grid.Row="3"/>
+
+    </Grid>
+</Window>
