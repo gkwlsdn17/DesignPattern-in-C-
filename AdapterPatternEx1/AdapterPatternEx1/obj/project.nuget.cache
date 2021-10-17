@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iI9s9U6U9Q4Vjh80OEsr2Y6h4+ZjJw0jgTZI8z+MvloZoEJicaLTzdNJAPc1krl4+jGJxeArC9c17TFaHlgp0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kwon\\Desktop\\Study\\DesignPattern-in-C#\\AdapterPatternEx1\\AdapterPatternEx1\\AdapterPatternEx1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kwon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

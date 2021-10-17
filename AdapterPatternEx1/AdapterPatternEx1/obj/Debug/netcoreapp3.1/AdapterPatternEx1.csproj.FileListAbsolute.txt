@@ -1,0 +1,13 @@
+C:\Users\kwon\Desktop\Study\DesignPattern-in-C#\AdapterPatternEx1\AdapterPatternEx1\bin\Debug\netcoreapp3.1\AdapterPatternEx1.exe
+C:\Users\kwon\Desktop\Study\DesignPattern-in-C#\AdapterPatternEx1\AdapterPatternEx1\bin\Debug\netcoreapp3.1\AdapterPatternEx1.deps.json
+C:\Users\kwon\Desktop\Study\DesignPattern-in-C#\AdapterPatternEx1\AdapterPatternEx1\bin\Debug\netcoreapp3.1\AdapterPatternEx1.runtimeconfig.json
+C:\Users\kwon\Desktop\Study\DesignPattern-in-C#\AdapterPatternEx1\AdapterPatternEx1\bin\Debug\netcoreapp3.1\AdapterPatternEx1.runtimeconfig.dev.json
+C:\Users\kwon\Desktop\Study\DesignPattern-in-C#\AdapterPatternEx1\AdapterPatternEx1\bin\Debug\netcoreapp3.1\AdapterPatternEx1.dll
+C:\Users\kwon\Desktop\Study\DesignPattern-in-C#\AdapterPatternEx1\AdapterPatternEx1\bin\Debug\netcoreapp3.1\AdapterPatternEx1.pdb
+C:\Users\kwon\Desktop\Study\DesignPattern-in-C#\AdapterPatternEx1\AdapterPatternEx1\obj\Debug\netcoreapp3.1\AdapterPatternEx1.csprojAssemblyReference.cache
+C:\Users\kwon\Desktop\Study\DesignPattern-in-C#\AdapterPatternEx1\AdapterPatternEx1\obj\Debug\netcoreapp3.1\AdapterPatternEx1.AssemblyInfoInputs.cache
+C:\Users\kwon\Desktop\Study\DesignPattern-in-C#\AdapterPatternEx1\AdapterPatternEx1\obj\Debug\netcoreapp3.1\AdapterPatternEx1.AssemblyInfo.cs
+C:\Users\kwon\Desktop\Study\DesignPattern-in-C#\AdapterPatternEx1\AdapterPatternEx1\obj\Debug\netcoreapp3.1\AdapterPatternEx1.csproj.CoreCompileInputs.cache
+C:\Users\kwon\Desktop\Study\DesignPattern-in-C#\AdapterPatternEx1\AdapterPatternEx1\obj\Debug\netcoreapp3.1\AdapterPatternEx1.dll
+C:\Users\kwon\Desktop\Study\DesignPattern-in-C#\AdapterPatternEx1\AdapterPatternEx1\obj\Debug\netcoreapp3.1\AdapterPatternEx1.pdb
+C:\Users\kwon\Desktop\Study\DesignPattern-in-C#\AdapterPatternEx1\AdapterPatternEx1\obj\Debug\netcoreapp3.1\AdapterPatternEx1.genruntimeconfig.cache
