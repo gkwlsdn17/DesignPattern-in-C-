@@ -15,8 +15,8 @@
         <WrapPanel  Grid.Row="0" VerticalAlignment="Center" Margin="10,10,0,0">
             <TextBlock x:Name="tbStatus" HorizontalAlignment="Left" Margin="0,0,0,0" TextWrapping="Wrap" Text="상태:" VerticalAlignment="Center" Width="30"/>
             <ComboBox x:Name="cbStatus" HorizontalAlignment="Left" Height="20" Margin="5,0,0,0" VerticalAlignment="Center" Width="78" SelectedIndex="0" SelectionChanged="cbStatus_SelectionChanged">
-                <ComboBoxItem Content="정상"/>
-                <ComboBoxItem Content="오류"/>
+                <ComboBoxItem Content="공단"/>
+                <ComboBoxItem Content="직전 자격조회"/>
             </ComboBox>
             <TextBlock x:Name="tbPatient" HorizontalAlignment="Left" Margin="20,0,0,0" TextWrapping="Wrap" Text="환자:" VerticalAlignment="Center" Width="30"/>
             <ComboBox x:Name="cbPatient" DisplayMemberPath="PatientName" SelectedValuePath="PatientID" HorizontalAlignment="Left" Height="20" Margin="5,0,0,0" VerticalAlignment="Center" Width="100"/>

@@ -16,17 +16,17 @@ namespace AdapterPattern
 
         public DTOPatientHealthIns NHICCommRequest(string patientID, string patientJN, string patientName, string inquiryDate)
         {
-            return DBSearch(patientID);
+            return DBSearch(patientID, patientName);
         }
 
         public DTOPatientHealthIns NHICCommHiCardNoRequest(string patientID, string patientName, string birthDay, string hiCardNo, string inquiryDate)
         {
-            return DBSearch(patientID);
+            return DBSearch(patientID, patientName);
         }
 
-        private DTOPatientHealthIns DBSearch(string patientID)
+        private DTOPatientHealthIns DBSearch(string patientID, string patientName)
         {
-            MainWindow.instance.WriteTextbox("공단 오류로 인하여 DB에서 데이터를 조회합니다.");
+            MainWindow.instance.WriteTextbox($"{patientName}님의 직전 자격 조회 정보를 DB에서 조회 중입니다.");
             return _healthIns.GetPatientLastHealthInsurance(patientID);
         }
     }

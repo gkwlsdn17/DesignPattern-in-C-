@@ -12,3 +12,18 @@ C:\Users\hss\Desktop\권희경\디자인패턴스터디\AdapterPattern\AdapterPa
 C:\Users\hss\Desktop\권희경\디자인패턴스터디\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csproj.GenerateResource.Cache
 C:\Users\hss\Desktop\권희경\디자인패턴스터디\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
 C:\Users\hss\Desktop\권희경\디자인패턴스터디\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb
+C:\Users\kwon\Desktop\AdapterPattern (1)\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+C:\Users\kwon\Desktop\AdapterPattern (1)\AdapterPattern\bin\Debug\AdapterPattern.exe
+C:\Users\kwon\Desktop\AdapterPattern (1)\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Users\kwon\Desktop\AdapterPattern (1)\AdapterPattern\obj\Debug\AdapterPattern.csprojAssemblyReference.cache
+C:\Users\kwon\Desktop\AdapterPattern (1)\AdapterPattern\obj\Debug\MainWindow.g.cs
+C:\Users\kwon\Desktop\AdapterPattern (1)\AdapterPattern\obj\Debug\App.g.cs
+C:\Users\kwon\Desktop\AdapterPattern (1)\AdapterPattern\obj\Debug\AdapterPattern_MarkupCompile.cache
+C:\Users\kwon\Desktop\AdapterPattern (1)\AdapterPattern\obj\Debug\AdapterPattern_MarkupCompile.lref
+C:\Users\kwon\Desktop\AdapterPattern (1)\AdapterPattern\obj\Debug\MainWindow.baml
+C:\Users\kwon\Desktop\AdapterPattern (1)\AdapterPattern\obj\Debug\AdapterPattern.g.resources
+C:\Users\kwon\Desktop\AdapterPattern (1)\AdapterPattern\obj\Debug\AdapterPattern.Properties.Resources.resources
+C:\Users\kwon\Desktop\AdapterPattern (1)\AdapterPattern\obj\Debug\AdapterPattern.csproj.GenerateResource.cache
+C:\Users\kwon\Desktop\AdapterPattern (1)\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\kwon\Desktop\AdapterPattern (1)\AdapterPattern\obj\Debug\AdapterPattern.exe
+C:\Users\kwon\Desktop\AdapterPattern (1)\AdapterPattern\obj\Debug\AdapterPattern.pdb

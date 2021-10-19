@@ -77,7 +77,7 @@ namespace AdapterPattern
             _patientList.Add(dto3);
         }
 
-        public static List<DTOPatientHealthIns> LIST { get { return _healthInsList; } }
+        public static List<DTOPatientHealthIns> LIST { get { return _healthInsList; } set { _healthInsList = value; } }
         public static List<DTOPatientPersonal> PATLIST { get { return _patientList; } }
 
 

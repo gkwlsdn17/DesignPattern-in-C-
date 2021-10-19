@@ -23,7 +23,7 @@ namespace AdapterPattern
         public static MainWindow instance;
         private bool status;
         private INHComm _nhic; //공단
-        private HealthInsurance _healthInsurance; //원래 클라이언트에서 사용중이었던 코드
+        private HealthInsurance _healthInsurance;
         public MainWindow()
         {
             InitializeComponent();
@@ -73,7 +73,20 @@ namespace AdapterPattern
                 WriteTextbox($"{pat.PatientName}님의 {today}일자 자격 조회:\n자격일자:{healthIns.InquiryDate}, 자격타입:{healthIns.QlfType},보험증번호:{healthIns.AsylmSym}, 자격정지일:{healthIns.PayRestricDt}, 공상 등 구분:{healthIns.GsType}");
             else
                 WriteTextbox($"{pat.PatientName}님의 {today}일자 자격 조회 실패");
+
+            DBSave(healthIns, today);
             WriteTextbox("=============================================================");
+            
+        }
+
+        private void DBSave(DTOPatientHealthIns dto, string today)
+        {
+            if(dto != null)
+            {
+                dto.InquiryDate = today;
+                DB.LIST.Add(dto);
+            }
+            
         }
     }
 }
