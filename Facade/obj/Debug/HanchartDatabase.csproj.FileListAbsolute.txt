@@ -94,3 +94,12 @@ C:\Users\kwon\Desktop\퍼사드\obj\Debug\HanchartDatabase.csproj.CoreCompileInp
 C:\Users\kwon\Desktop\퍼사드\obj\Debug\HanchartDatabase.csproj.CopyComplete
 C:\Users\kwon\Desktop\퍼사드\obj\Debug\HanchartDatabase.exe
 C:\Users\kwon\Desktop\퍼사드\obj\Debug\HanchartDatabase.pdb
+C:\Users\hss\Desktop\권희경\디자인패턴스터디\퍼사드_\obj\Debug\HanchartDatabase.exe
+C:\Users\hss\Desktop\권희경\디자인패턴스터디\퍼사드_\obj\Debug\HanchartDatabase.pdb
+C:\Users\hss\Desktop\권희경\디자인패턴스터디\퍼사드_\obj\Debug\HanchartDatabase.csprojResolveAssemblyReference.cache
+C:\Users\hss\Desktop\권희경\디자인패턴스터디\퍼사드_\bin\Debug\HanchartDatabase.exe
+C:\Users\hss\Desktop\권희경\디자인패턴스터디\퍼사드_\bin\Debug\HanchartDatabase.pdb
+C:\Users\hss\Desktop\권희경\디자인패턴스터디\퍼사드_\bin\Debug\Spire.License.dll
+C:\Users\hss\Desktop\권희경\디자인패턴스터디\퍼사드_\bin\Debug\MySql.Data.xml
+C:\Users\hss\Desktop\권희경\디자인패턴스터디\퍼사드_\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hss\Desktop\권희경\디자인패턴스터디\퍼사드_\bin\Debug\Spire.XLS.xml

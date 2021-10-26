@@ -31,7 +31,7 @@ namespace HanchartDatabase
                 WriteMysql writeMysql = new WriteMysql("t00002");
                 writeMysql.WriteCustomer(patients);
                 writeMysql.WriteSchedule(schedules);
-                //writeMysql.UpdatePatientID(patients);
+                writeMysql.UpdatePatientID(patients,schedules);
             }
 
             MessageBox.Show("컨버팅이 완료되었습니다.");
