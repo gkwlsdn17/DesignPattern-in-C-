@@ -18,7 +18,7 @@ namespace HanchartDatabase
         public List<TPatientPersonal> ReadCustomer()
         {
             Console.WriteLine("Mysql ReadCustomer");
-            DataTable dt = new Sample().SamplePerson();
+            DataTable dt = new Sample().DBSamplePerson();
             List<TPatientPersonal> list = new List<TPatientPersonal>();
             foreach (DataRow person in dt.Rows)
             {
@@ -39,7 +39,7 @@ namespace HanchartDatabase
         public List<TPatientSchedule> ReadResvSchedule()
         {
             Console.WriteLine("Mysql ReadResvSchedule");
-            DataTable dt = new Sample().SampleSchedule();
+            DataTable dt = new Sample().DBSampleSchedule();
             List<TPatientSchedule> list = new List<TPatientSchedule>();
             foreach (DataRow schedule in dt.Rows)
             {
