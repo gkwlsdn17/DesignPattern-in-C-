@@ -1,0 +1,20 @@
+﻿<Window x:Class="TemplateMethod.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TemplateMethod"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600" Loaded="MainWindow_Loaded">
+    <StackPanel HorizontalAlignment="Center">
+        <WrapPanel Margin="0,39,0,0">
+        <ComboBox x:Name="cbType" HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="300" SelectionChanged="cbType_SelectionChanged">
+            <ComboBoxItem Content="KIS"/>
+            <ComboBoxItem Content="TPay"/>
+        </ComboBox>
+            <Button x:Name="btnPayment" Content="결제" HorizontalAlignment="Left" Height="25" Margin="10,0,0,0" VerticalAlignment="Top" Width="68" Click="btnPayment_Click"/>
+            <Button x:Name="btnPayment_Cancel" Content="결제취소" HorizontalAlignment="Left" Height="25" Margin="10,0,0,0" VerticalAlignment="Top" Width="68" Click="btnPayment_Cancel_Click"/>
+        </WrapPanel>
+        <TextBox x:Name="tbResult" HorizontalAlignment="Left" Height="300" Margin="0,20,0,0" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" VerticalAlignment="Top" Width="500"/>
+    </StackPanel>
+</Window>
