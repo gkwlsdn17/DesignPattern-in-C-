@@ -1,0 +1,13 @@
+C:\Users\kwon\Desktop\Study\디자인패턴\DesignPattern-in-C#\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+C:\Users\kwon\Desktop\Study\디자인패턴\DesignPattern-in-C#\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\Users\kwon\Desktop\Study\디자인패턴\DesignPattern-in-C#\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+C:\Users\kwon\Desktop\Study\디자인패턴\DesignPattern-in-C#\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+C:\Users\kwon\Desktop\Study\디자인패턴\DesignPattern-in-C#\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\kwon\Desktop\Study\디자인패턴\DesignPattern-in-C#\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\kwon\Desktop\Study\디자인패턴\DesignPattern-in-C#\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+C:\Users\kwon\Desktop\Study\디자인패턴\DesignPattern-in-C#\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\Users\kwon\Desktop\Study\디자인패턴\DesignPattern-in-C#\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\Users\kwon\Desktop\Study\디자인패턴\DesignPattern-in-C#\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\kwon\Desktop\Study\디자인패턴\DesignPattern-in-C#\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\kwon\Desktop\Study\디자인패턴\DesignPattern-in-C#\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\kwon\Desktop\Study\디자인패턴\DesignPattern-in-C#\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache

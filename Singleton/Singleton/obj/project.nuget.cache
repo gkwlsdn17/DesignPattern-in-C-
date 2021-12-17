@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SFOmP8WEz0UKE3F2Saa/VjAnf9NT66p4JBKuMVZhtF8ijZzNjwxcgW9OlDIgDuQpaolJV3wSL42HB8aNjx9Jew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kwon\\Desktop\\Study\\디자인패턴\\DesignPattern-in-C#\\Singleton\\Singleton\\Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kwon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
